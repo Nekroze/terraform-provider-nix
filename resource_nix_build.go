@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/andrewchambers/terraform-provider-nix/nix"
+	"github.com/Nekroze/terraform-provider-nix/nix"
 	"github.com/hashicorp/terraform/helper/schema"
 )
 

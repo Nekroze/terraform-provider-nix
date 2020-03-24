@@ -1,4 +1,4 @@
-module github.com/andrewchambers/terraform-provider-nix
+module github.com/Nekroze/terraform-provider-nix
 
 go 1.14
 
